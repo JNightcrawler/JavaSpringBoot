@@ -8,6 +8,7 @@ class JavaspringbootApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("test");
 	}
 
 }
